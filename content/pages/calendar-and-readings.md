@@ -234,7 +234,7 @@ Disease Control Priorities Project. [_Disease Control Priorities in Developing C
 \- Chapter 30, "[Diabetes: The Pandemic and Potential Solutions](https://www.ncbi.nlm.nih.gov/books/NBK11777/)." by K. M. Venkat Narayan, et al.  
 \- Chapter 33, "Cardiovascular Disease." by Thomas A. Gaziano, et al.
 
-International Atomic Energy Agency. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_A Silent Crisis: Cancer Treatment in Developing Countries (PDF)_](https://inis.iaea.org/search/search.aspx?orig_q=RN:35024620). September 2003.
+International Atomic Energy Agency. [_A Silent Crisis: Cancer Treatment in Developing Countries (PDF)_](https://inis.iaea.org/search/search.aspx?orig_q=RN:35024620). September 2003.
 
 McNeil Jr., Donald G. "[In India, a Quest to Ease the Pain of the Dying](http://www.nytimes.com/2007/09/11/health/11pain.html?pagewanted=all&_r=0)," _New York Times_, September 11, 2007.
 
@@ -316,9 +316,9 @@ Supplemental Readings
 Supporting material for _Rx for Survival_
 
 *   [_Rx for Survival: A Global Health Challenge_](http://www.pbs.org/wgbh/rxforsurvival/index.html). This 2005 PBS television series, available on DVD, plus associated web resources, coincided with the book's publication.
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Reader's Guide to _Rx for Survival_ (PDF)](http://www-tc.pbs.org/wgbh/rxforsurvival/pdf/Rx_PenguinReadGuide.pdf)
+*   [Reader's Guide to _Rx for Survival_ (PDF)](http://www-tc.pbs.org/wgbh/rxforsurvival/pdf/Rx_PenguinReadGuide.pdf)
 
-Geelhoed, Glenn W. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_"_Surgery and Healing in the Developing World._"_ (PDF - 4.7MB)](http://www.dartmouth-hitchcock.org/dhmc-internet-upload/file_collection/geelhoed_surgery.pdf) _Landes Biosciences,_ 2005.
+Geelhoed, Glenn W. [_"_Surgery and Healing in the Developing World._"_ (PDF - 4.7MB)](http://www.dartmouth-hitchcock.org/dhmc-internet-upload/file_collection/geelhoed_surgery.pdf) _Landes Biosciences,_ 2005.
 
 Werner, David, Carol Thurman, and Jane Maxwell. [_Where There Is No Doctor: A Village Health Care Handbook_](http://store.hesperian.org/HB/prod/B010R.html). Hesperian Foundation, 2013. ISBN: 9780942364156.
 
