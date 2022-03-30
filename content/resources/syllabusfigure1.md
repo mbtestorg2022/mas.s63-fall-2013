@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 8b63dd6e-3d63-960f-cf36-adb9cb4f73a3
 resourcetype: Image
 title: 'Making Health: From Clinic to Tricorder'
 uid: 91fdcc81-a56f-d2d3-78c9-b1f6f5b3fd76
